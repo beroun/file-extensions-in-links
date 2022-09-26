@@ -4,7 +4,8 @@
 This is a short but sweet JS function that you can copy to your library. It receives the following parametres:
 
     1. The DOM element (at this point, you can only send `<a>` TagNames, otherwise it will do nothing).
-    2. An array that contains all the accepted file extensions (if the href of the `<a>` ends in one of these extensions, the attribute value will be changed. The file extensions must be added without dots/periods and spaces.
+    2. An array that contains all the accepted file extensions. If the href of the `<a>` ends in one of these extensions,
+    the attribute value will be changed. The file extensions must be added without dots/periods and spaces.
     3. The attribute we want to change.
     4. The new value of the attribute.
 
