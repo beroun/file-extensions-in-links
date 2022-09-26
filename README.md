@@ -1,5 +1,5 @@
 # file-extensions-in-links
-##Changes the value of a certain attribute when the link ends in certain file extensions
+## Changes the value of a certain attribute when the link ends in certain file extensions
 
 This is a short but sweet JS function that you can copy to your library. It receives the following parametres:
 
