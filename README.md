@@ -11,6 +11,7 @@ This is a short but sweet JS function that you can copy to your library. It rece
 
 
 As an example, this would be a correct way to call the function:
+
 `detectExtension(document.querySelector("a"),["doc", "txt", "tiff", "tif", "pdf", "ppt"],"target","_new");`
 
 Remember that you can also easily change the function in order to accept other tags, not only `<a>`! Or you can always ask me to change it, I will be pleased to do so.
